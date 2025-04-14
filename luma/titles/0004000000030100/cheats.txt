@@ -1,0 +1,75 @@
+[16,777,215 hearts]
+00EE9820 00FFFFFF
+{max hearts - the eighth digit is not visible on the main menu}
+
+[Max special in aerial battles]
+BD000000 00000240
+00E40960 40000000
+D2000000 00000000
+
+[1st Power uses x15]
+BD000000 00000804
+00E40984 0000000F
+00E4098C 0000000F
+D2000000 00000000
+
+[1st Power infinite time]
+BD000000 00000103
+00E4B278 44E10000
+D2000000 00000000
+{Using multiple infinite time codes simultaneously may freeze the game}
+
+[2nd Power uses x15]
+BD000000 00000804
+00E40994 0000000F
+00E4099C 0000000F
+D2000000 00000000
+
+[2nd Power infinite time]
+BD000000 00000103
+00E4B288 44E10000
+D2000000 00000000
+{Using multiple infinite time codes simultaneously may freeze the game}
+
+[3rd Power uses x15]
+BD000000 00000804
+00E409A4 0000000F
+00E409AC 0000000F
+D2000000 00000000
+
+[3rd Power infinite time]
+BD000000 00000103
+00E4B298 44E10000
+D2000000 00000000
+{Using multiple infinite time codes simultaneously may freeze the game}
+
+[4th Power uses x15]
+BD000000 00000804
+00E409B4 0000000F
+00E409BC 0000000F
+D2000000 00000000
+
+[4th Power infinite time]
+BD000000 00000103
+00E4B2A8 44E10000
+D2000000 00000000
+{Using multiple infinite time codes simultaneously may freeze the game}
+
+[5th Power uses x15]
+BD000000 00000804
+00E409C4 0000000F
+00E409CC 0000000F
+D2000000 00000000
+
+[5th Power infinite time]
+BD000000 00000103
+00E4B2B8 44E10000
+D2000000 00000000
+{Using multiple infinite time codes simultaneously may freeze the game}
+
+[Play as Dark Pit in any level]
+00EB7858 00000002
+00EB9488 000000EB
+00EB9860 00000002
+00EBB490 000000EB
+D2000000 00000000

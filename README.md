@@ -8,5 +8,5 @@ Converted into the structure expected by Luma3DS's cheat engine.
 2. Go use the cheats in your favorite game!
 
 ### References
-[Luma3DS] (https://github.com/LumaTeam/Luma3DS)
-[CTRPF AR CHEAT CODES] (https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES)
+- Luma3DS  https://github.com/LumaTeam/Luma3DS
+- CTRPF AR CHEAT CODES https://github.com/iSharingan/CTRPF-AR-CHEAT-CODES
